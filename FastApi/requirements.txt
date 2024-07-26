@@ -1,0 +1,5 @@
+fastapi
+uvicorn[standard] #asgi server
+python-multipart
+sqlalchemy
+jinja2
